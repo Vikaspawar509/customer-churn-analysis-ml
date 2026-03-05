@@ -129,3 +129,7 @@ Based on the analysis:
 - Matplotlib
 - Scikit-learn
 - Jupyter Notebook
+
+---
+
+⭐ If you found this project interesting, feel free to star the repository!
