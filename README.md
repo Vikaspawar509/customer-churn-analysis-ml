@@ -129,7 +129,3 @@ Based on the analysis:
 - Matplotlib
 - Scikit-learn
 - Jupyter Notebook
-
----
-
-## Project Structure
